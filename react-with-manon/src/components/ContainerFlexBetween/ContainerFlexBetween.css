@@ -1,0 +1,16 @@
+.ContainerFlexBetween__bg{
+    background-color: var(--color-brown);
+    padding: 4vh;
+}
+
+.ContainerFlexBetween__title{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2vh;
+}
+
+.ContainerFlexBetween__links{
+    display: flex;
+    justify-content: center;
+    gap: 7vw;
+}

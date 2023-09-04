@@ -1,0 +1,6 @@
+.ButtonTest__button{
+    background-color:var(--color-green);
+    color: white;
+    padding: 3vw 5vh;
+    border-radius: 50px;
+}

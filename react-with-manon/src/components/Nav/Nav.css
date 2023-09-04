@@ -1,0 +1,10 @@
+.Nav{
+    display: flex;
+    align-items: center;
+
+}
+.Nav__ul{
+    display: flex;
+    gap:2vw;
+    color: var(--color-white);
+}

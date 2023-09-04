@@ -1,0 +1,6 @@
+.App__wrapper{
+    width: min(1196px, 100%);
+    margin: 20px auto 100px;
+
+        border: 1px solid red;
+}

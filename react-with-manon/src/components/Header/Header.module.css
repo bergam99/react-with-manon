@@ -1,0 +1,10 @@
+.wrapper {
+    background-color: var(--color-brown);
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh 3vw;
+}
+
+.title {
+    color: var(--color-white);
+}

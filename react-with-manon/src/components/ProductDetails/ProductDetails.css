@@ -1,0 +1,10 @@
+
+.ProductDetails__img{
+    height: 20vh;
+}
+.ProductDetails__ProductCards{
+    display: flex;
+    padding: 1vh;
+}
+/* .ProductDetails__des{
+} */
